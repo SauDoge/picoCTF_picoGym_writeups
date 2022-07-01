@@ -5,7 +5,7 @@
 - The variables I got are 58, 2, 3
 
 ## Process
-* Study the assembly code
+* Study the assembly code (I wrote some comments in my version of chall_1.S to help you understand all those crazy registers and memory. Take a look if you are new to assembly)
 * The `main` should read an arg and pass it to `func`
 * `func` returns the result of 58 * (2^2) / 3 - arg to `main`
 * If the result == 0, then program will print 'win'
