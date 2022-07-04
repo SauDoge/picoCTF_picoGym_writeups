@@ -12,7 +12,6 @@
 * Netcat the address and pipe the output into a txt file.
 * Copy the content to a g-code simulator
 * The preview should show the flag
-![Result](/ReverseEngineering/speed-and-feed/result.png)
 
 ## Flag
 > picoCTF{num3r1cal_c0ntr0l_68a8fe29}
